@@ -39,8 +39,9 @@ I am a skilled Android developer based in Nigeria, specializing in Kotlin and de
 
 ## GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&cache_buster=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&cache_buster=1)
+
 
 ## Contact Information
 
