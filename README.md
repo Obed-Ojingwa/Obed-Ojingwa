@@ -6,7 +6,7 @@ I am a skilled Android developer based in Nigeria, specializing in Kotlin and de
 
 - **Location:** Nigeria
 - **Role:** Android Developer, Backend Developer
-- **Passions:** Exploring the latest in technology, playing football, playing with new techs, swimming, and exploring the latest in technology
+- **Passions:** Exploring the latest in technology, playing with new techs, playing football, swimming
 - **Goal:** To continuously develop high-quality applications and expand my expertise in cross-platform development
 
 ## Technical Skills
