@@ -39,8 +39,8 @@ I am a skilled Android developer based in Nigeria, specializing in Kotlin and de
 
 ## GitHub Statistics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObedMelody&show_icons=true&theme=radical&cache_buster=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObedMelody&layout=compact&theme=radical&cache_buster=1)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical&cache_buster=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical&cache_buster=1)
 
 
 ## Contact Information
