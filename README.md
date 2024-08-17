@@ -46,7 +46,7 @@ I am a skilled Android developer based in Nigeria, specializing in Kotlin and de
 ## Contact Information
 
 - **LinkedIn:** https://www.linkedin.com/in/obed-ojingwa-94a73422a/
-- **Email:** [obedojingwa@gmail.com](mailto:youremail@example.com)
+- **Email:** [obedojingwa@gmail.com](mailto:obedojingwa@gmail.com)
 - **Whatsapp** https://wa.me/+2348102544186
 
 ---
