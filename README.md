@@ -2,6 +2,8 @@
 
 I am a skilled Android developer based in Nigeria, specializing in Kotlin and dedicated to building innovative mobile applications. With a passion for technology and continuous learning, I aim to create impactful solutions in the tech world.
 
+BET AGAINST ME.
+
 ## About Me
 
 - **Location:** Nigeria
