@@ -1,7 +1,10 @@
 # Welcome to My GitHub Profile
 
-I am a skilled Android developer based in Nigeria, specializing in Kotlin and dedicated to building innovative mobile applications. With a passion for technology and continuous learning, I aim to create impactful solutions in the tech world.
+An Android and Hybrid Application with Kotlin XML, Kotlin Jetpack Compose or Flutter.
 
+A Data Analyst with experience with Python, SQL and Dashboards
+
+A Python Developer
 
 
 ## About Me
