@@ -44,7 +44,16 @@ A Python Developer
 
 ## GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical&cache_buster=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical&cache_buster=1" />
+</div>
+
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical&cache_buster=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obed-Ojingwa&theme=radical&cache_buster=1)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical&cache_buster=1)
 
 
