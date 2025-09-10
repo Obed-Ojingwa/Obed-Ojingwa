@@ -56,7 +56,6 @@ I love turning ideas into scalable applications, transforming data into insights
   <img src="https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Ojingwa&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical" />
 </div>  
 
 ---
