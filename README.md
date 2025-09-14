@@ -7,7 +7,6 @@ I love turning ideas into scalable applications, transforming data into insights
 
 ---
 
-
 ## 👨‍💻 About Me  
 - 📍 **Location:** Nigeria  
 - 💼 **Roles:** Android Developer | Data Analyst  | Backend Developer 
