@@ -10,7 +10,7 @@ I love turning ideas into scalable applications, transforming data into insights
 ## 👨‍💻 About Me  
 - 📍 **Location:** Nigeria  
 - 💼 **Roles:** Android Developer | Data Analyst  | Backend Developer 
-- ⚡ **Passions:** Mobile development, data-driven solutions, football, swimming  
+- ⚡ **Passions:** Mobile development, data-driven solutions, creating softwares and solutions.
 - 🎯 **Goal:** To build cross-platform apps and backend systems that solve real-world problems while growing into a full-stack mobile and backend expert.  
 
 ---
