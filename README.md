@@ -2,14 +2,14 @@
 
 # 👋 Welcome to My GitHub  
 
- I’m **Obed Ojingwa**, a passionate **Android Developer**, **Data Analyst**, **Backend Developer** and **GIS Analyst** from Nigeria.  
+ I’m **Obed Ojingwa**, a passionate **Android Developer**, **Pentester/QA** **Data Analyst**, **Backend Developer** and **GIS Analyst** from Nigeria.  
 I love turning ideas into scalable applications, transforming data into insights, experimenting with new technologies and solving Geo-Spatial Analysis.  
 
 ---
 
 ## 👨‍💻 About Me  
 - 📍 **Location:** Nigeria  
-- 💼 **Roles:** Android Developer | Data Analyst  | Backend Developer 
+- 💼 **Roles:** Android Developer | Pentester and QA | Data Analyst  | Backend Developer 
 - ⚡ **Passions:** Mobile development, data-driven solutions, creating softwares and solutions.
 - 🎯 **Goal:** To build cross-platform apps and backend systems that solve real-world problems while growing into a full-stack mobile and backend expert.  
 
