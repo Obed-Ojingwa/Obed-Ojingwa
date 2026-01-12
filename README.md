@@ -138,6 +138,14 @@ I value **clean architecture**, **security**, **performance**, and **clarity of 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Ojingwa&theme=radical" height="160"/>
 </div>
 
+
+<!-- GitHub Stats Card (fast version) -->
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical)](https://github.com/Obed-Ojingwa/github-readme-stats-fast)
+
+<!-- GitHub Streak (fast version) -->
+![GitHub Streak](https://streak-stats.vercel.app?user=Obed-Ojingwa&theme=radical)
+
+
 *******************************************************************
 
 ## 📬 Contact & Professional Links
