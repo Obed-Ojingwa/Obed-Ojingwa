@@ -142,8 +142,11 @@ I value **clean architecture**, **security**, **performance**, and **clarity of 
 <!-- GitHub Stats Card (fast version) -->
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical)](https://github.com/Obed-Ojingwa/github-readme-stats-fast)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&langs_count=10&theme=radical)
+
 <!-- GitHub Streak (fast version) -->
-![GitHub Streak](https://streak-stats.vercel.app?user=Obed-Ojingwa&theme=radical)
+<!-- ![GitHub Streak](https://streak-stats.vercel.app?user=Obed-Ojingwa&theme=radical) -->
+
 
 
 *******************************************************************
