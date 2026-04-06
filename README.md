@@ -142,4 +142,4 @@ I believe great software is built through **clear thinking, solid architecture, 
 
 My goal is to build **reliable systems used by real people at scale**.
 
-If you're building something interesting — I'm open to collaborating.
+If you're building something interesting, I'm open to collaborating.
