@@ -13,7 +13,8 @@ My work focuses on **scalable architecture, secure systems, and high-performance
 I specialize in building systems across the full development stack:
 
 • **Mobile Applications**  
-• **Backend APIs & Automation Systems**  
+• **Backend APIs & Automation Systems** 
+• **Frontend Designs (UI/UX) Systems**
 • **Web Platforms & Marketplaces**  
 • **Data Analysis & Decision Systems**  
 • **Cloud Deployment & Server Infrastructure**
