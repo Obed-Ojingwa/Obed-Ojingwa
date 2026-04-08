@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub
 
-Hi, I'm **Obed Ojingwa** — a **Full Stack Software Engineer** based in Nigeria.
+Hi, I'm **Obed Ojingwa**, a **Full Stack Software Engineer** based in Nigeria.
 
 I design and build **end-to-end software systems**, including mobile applications, backend services, automation tools, and data-driven platforms.
 
