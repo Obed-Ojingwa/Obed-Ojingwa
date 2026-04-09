@@ -120,6 +120,7 @@ I enjoy transforming ideas into **production-ready software**.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical" height="160"/>
 
+![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 
 ---
