@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub
+#  ``Welcome to My GitHub``
 
 Hi, I'm **Obed Ojingwa**, a **Full Stack Software Engineer** based in Nigeria.
 
