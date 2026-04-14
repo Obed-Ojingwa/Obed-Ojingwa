@@ -120,9 +120,6 @@ I enjoy transforming ideas into **production-ready software**.
   <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&count_private=true&theme=radical" alt="Obed's GitHub stats" height="170" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="170" />
-</p>
 
 <p align="center">
   <!-- Streak Stats -->
