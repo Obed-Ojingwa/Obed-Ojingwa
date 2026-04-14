@@ -115,13 +115,18 @@ I enjoy transforming ideas into **production-ready software**.
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://vercel.app" alt="Obed's GitHub stats" height="170" />
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Obed-Ojingwa&show_icons=true&theme=radical" alt="Obed's GitHub stats" height="170" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obed-Ojingwa&layout=compact&theme=radical" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Detailed Stats" />
+  <!-- Detailed Stats (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obed-Ojingwa&theme=radical" alt="Detailed Stats" />
 </p>
+
 
 ---
 
