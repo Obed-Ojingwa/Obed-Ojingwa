@@ -6,7 +6,7 @@ I design and build **end-to-end software systems**, including mobile application
 
 My work focuses on **scalable architecture, secure systems, and high-performance applications** deployed to real environments.
 
----
+
 
 #  Engineering Focus
 
