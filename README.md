@@ -21,7 +21,6 @@ I specialize in building systems across the full development stack:
 
 I enjoy transforming ideas into **production-ready software**.
 
---
 
 # 💻 Technology Stack
 
@@ -41,7 +40,7 @@ I enjoy transforming ideas into **production-ready software**.
 • Offline-first mobile systems  
 • API integration
 
----
+
 
 ## Backend & Systems
 
