@@ -2,10 +2,10 @@
 
 Hi, I'm **Obed Ojingwa**, a **Full Stack Software Engineer** based in Nigeria.
 
+
 I design and build **end-to-end software systems**, including mobile applications, backend services, automation tools, and data-driven platforms.
 
 My work focuses on **scalable architecture, secure systems, and high-performance applications** deployed to real environments.
-
 
 
 #  Engineering Focus
@@ -35,7 +35,7 @@ I enjoy transforming ideas into **production-ready software**.
 
 • MVVM  
 • Clean Architecture  
-• Coroutines & Flow  
+• Coroutines (Kt) & Flow  
 • Dependency Injection  
 • Offline-first mobile systems  
 • API integration
