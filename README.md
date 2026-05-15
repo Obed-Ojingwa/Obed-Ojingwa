@@ -21,7 +21,6 @@ I specialize in building systems across the full development stack:
 
 I enjoy transforming ideas into **production-ready software**.
 
-
 # 💻 Technology Stack
 
 ## Mobile Development
@@ -58,7 +57,6 @@ I enjoy transforming ideas into **production-ready software**.
 • Payment / transaction systems  
 • Backend services for mobile and web apps
 
----
 
 ## Web Development
 
@@ -72,7 +70,7 @@ I enjoy transforming ideas into **production-ready software**.
 • Admin dashboards  
 • API-connected web apps
 
----
+
 
 ## Databases
 
@@ -98,7 +96,6 @@ I enjoy transforming ideas into **production-ready software**.
 • CI/CD basics  
 • Linux server management
 
----
 
 #  Engineering Interests
 
