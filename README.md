@@ -2,9 +2,21 @@
 
 **Building scalable systems that scale from MVP to millions of users**
 
-I'm a **Full Stack Software Engineer** based in Nigeria, specializing in **end-to-end system design** — from mobile applications and backend services to cloud infrastructure and data systems. I transform complex ideas into **production-ready software** used by real people at scale.
+A **Full Stack Software Engineer** based in Nigeria, specializing in **end-to-end system design**; from mobile applications and backend services to cloud infrastructure and data systems. I transform complex ideas into **production-ready software** used by real people at scale.
 
 ---
+
+## 📞 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [linkedin.com/in/obed-ojingwa-94a73422a](https://www.linkedin.com/in/obed-ojingwa-94a73422a/) |
+| **Email** | obedojingwa@gmail.com |
+| **WhatsApp** | [wa.me/2348102544186](https://wa.me/2348102544186) |
+
+</div>
 
 ## 🎯 What I Build
 
