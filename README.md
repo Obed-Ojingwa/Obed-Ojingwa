@@ -4,11 +4,12 @@
 
 **Building scalable systems that scale from MVP to millions of users**
 
-A **Full Stack Software Engineer** based in Nigeria, specializing in **end-to-end system design**; from mobile applications and backend services to cloud infrastructure and data systems. I transform complex ideas into **production-ready software** used by real people at scale.
+A **Full Stack Software Engineer** based in Nigeria,specializing in **end-to-end system design**; from mobile applications and backend services to cloud infrastructure and data systems. I transform complex ideas into **production-ready software** used by real people at scale.
+
 
 ---
 
-## 📞 Connect With Me
+## 📞  Connect  With  Me
 
 <div align="center">
 
