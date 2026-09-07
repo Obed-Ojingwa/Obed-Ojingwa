@@ -17,12 +17,12 @@
 
 **Full Stack Software Engineer** specializing in **end-to-end system design** and **scalable architectures**. I build production-ready systems that scale from MVP to millions of users, with expertise spanning:
 
-- 🏗️ **Scalable Backend Architecture** — designing systems for high concurrency, fault tolerance, and reliability
-- 📱 **Mobile-First Development** — native Android (Kotlin), Flutter, real-time synchronization
-- 🔌 **RESTful & Async APIs** — FastAPI, Express.js, microservices, webhook systems
-- 💾 **Database Design & Optimization** — PostgreSQL, MySQL, query optimization, data modeling
-- 🐳 **DevOps & Infrastructure** — Docker, CI/CD, Linux, cloud deployment strategies
-- 🔐 **Security & Authentication** — JWT, OAuth, session management, data protection
+- 🏗️ **Scalable Backend Architecture** : designing systems for high concurrency, fault tolerance, and reliability
+- 📱 **Mobile-First Development** : native Android (Kotlin), Flutter, real-time synchronization
+- 🔌 **RESTful & Async APIs** : FastAPI, Express.js, microservices, webhook systems
+- 💾 **Database Design & Optimization** : PostgreSQL, MySQL, query optimization, data modeling
+- 🐳 **DevOps & Infrastructure** : Docker, CI/CD, Linux, cloud deployment strategies
+- 🔐 **Security & Authentication** : JWT, OAuth, session management, data protection
 
 **Location:** Nigeria | **Open to:** Remote contracts, full-time roles, and architecture consulting
 
