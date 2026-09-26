@@ -1,4 +1,4 @@
-# 👋 Obed Ojingwa | Full Stack Software Engineer
+#  Obed Ojingwa | Full Stack Software Engineer
 
 <div align="center">
 
