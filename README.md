@@ -9,7 +9,7 @@ I build mobile apps and backend-heavy web products for fintech, geospatial, medi
 ![Followers](https://img.shields.io/github/followers/Obed-Ojingwa?style=flat&logo=github)
 ![Android since](https://img.shields.io/badge/Android%20since-20XX-3DDC84?style=flat&logo=android&logoColor=white) <!-- FILL: real year -->
 
-[LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/) · [Email](mailto:obedojingwa@gmail.com) · [NerdPace](https://nerdpace.com)
+[LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/) · [Email](mailto:obedojingwa@gmail.com) · [NerdPace](https://nerdpace.com) · [WhatsApp](+2349074497788)
 
 </div>
 
@@ -33,8 +33,8 @@ I build mobile apps and backend-heavy web products for fintech, geospatial, medi
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **ENY OS** | Role-based AI operations console consolidating department tools into one interface | FastAPI, React, Supabase | <!-- FILL: demo / case study (omit if private) --> |
-| **Spotter** | Job posting platform with a matching engine that pairs candidates with job posts and helps posters find the right candidates | <!-- FILL: e.g. FastAPI, React, Supabase --> | <!-- FILL: live demo / repo --> |
+| **ENY OS** | Role-based AI operations console consolidating department tools into one interface | Python FastAPI, React, Supabase | <!-- FILL: demo / case study (omit if private) --> |
+| **Spotter** | Job posting platform with a matching engine that pairs candidates with job posts and helps posters find the right candidates | Python with FastAPI, React TypeScript, Supabase Postgresql, Next.js| <!-- FILL: live demo / repo --> |
 | **Webinar sales funnel** | Regional payment routing with CRM and email automation for a consulting business | <!-- FILL --> | <!-- FILL --> |
 | **NerdPace platform** | Agency site and technical SEO architecture | Next.js, <!-- FILL --> | [nerdpace.com](https://nerdpace.com) |
 | **android-kotlin-chat-app** | Open-source Android chat with voice/video calling, offline-first sync | Kotlin, Jetpack Compose, Room, Coroutines | [Repo](https://github.com/Obed-Ojingwa/android-kotlin-chat-app) |
