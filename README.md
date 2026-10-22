@@ -7,7 +7,7 @@
 I build mobile apps and backend-heavy web products for fintech, geospatial, media, job-tech and operations teams, and ship them to production.
 
 ![Followers](https://img.shields.io/github/followers/Obed-Ojingwa?style=flat&logo=github)
-![Android since](https://img.shields.io/badge/Android%20since-20XX-3DDC84?style=flat&logo=android&logoColor=white) <!-- FILL: real year -->
+![Android since](https://img.shields.io/badge/Android%20since-2020-3DDC84?style=flat&logo=android&logoColor=white) <!-- FILL: real year -->
 
 [LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/) · [Email](mailto:obedojingwa@gmail.com) · [NerdPace](https://nerdpace.com) · [WhatsApp](+2349074497788)
 
