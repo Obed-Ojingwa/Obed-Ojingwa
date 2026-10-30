@@ -87,4 +87,4 @@ I have worked across the Android stack from XML and RecyclerView to Jetpack Comp
 
 ## Let’s talk
 
-Hiring, or do you have a product, app, or SEO challenge? Email **obedojingwa@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/). I reply within 48 hours.
+Hiring, or do you have a product, app, or SEO challenge? Email **obedojingwa@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/). I reply within 10 hours.
