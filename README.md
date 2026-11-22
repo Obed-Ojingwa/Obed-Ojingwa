@@ -25,9 +25,11 @@ I build production-grade mobile apps and backend-heavy web products for fintech,
 | **Businesses needing a product** | MVPs, dashboards, internal tools, payment flows, automation systems, and customer-facing web/mobile products built for real-world use. |
 | **Teams needing growth** | Technical SEO, high-converting web experiences, and product strategy through [NerdPace](https://nerdpace.com), a Lagos-based agency I founded. |
 
-**Open to:** remote full-time roles, contract work, architecture consulting, and technical SEO engagements. 
+**Open to:** remote full-time roles, contract work, architecture consulting, and technical SEO engagements.
+
 
 ** Your Satisfaction is my Pride**
+
 
 ---
 
@@ -89,7 +91,7 @@ I have worked across the Android stack from XML and RecyclerView to Jetpack Comp
 
 ## Let’s talk
 
-Hiring, or do you have a product, app, or SEO challenge? Email **obedojingwa@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/). I reply within 10 hours.
+Hiring, or do you have a product, mobile app, web app or SEO challenge? Email **obedojingwa@gmail.com** or message me on [LinkedIn](https://www.linkedin.com/in/obed-ojingwa-94a73422a/). I reply within 10 hours.
 
 
 
